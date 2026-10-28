@@ -8,7 +8,7 @@ cards, charts, maps, and interactive slicers.
 
 ### 1. Overview
 
-![Zomato Dashboard --- Overview](screenshots/zomato-overview.png)
+![Zomato Dashboard --- Overview](Screenshot 2026-10-28 092054.png)
 
 The Overview page summarizes restaurant coverage across countries,
 cities, restaurants, and cuisines. It also includes table-booking
@@ -18,7 +18,7 @@ restaurants.
 ### 2. Restaurant Analysis
 
 ![Zomato Dashboard --- Restaurant
-Analysis](screenshots/zomato-analysis.png)
+Analysis](Screenshot 2026-10-28 092113.png)
 
 The Analysis page explores restaurant ratings, votes by restaurant,
 cuisine distribution, and restaurant addresses. Slicers allow users to
