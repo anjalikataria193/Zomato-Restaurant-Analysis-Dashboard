@@ -17,7 +17,7 @@ analysis, restaurant distribution by country, top cuisines, and top
 restaurants.
 
 ### 2. Restaurant Analysis
-![Uploading Screenshot 2026-10-28 092113.png…]()
+<img width="1168" height="660" alt="Screenshot 2026-10-28 092113" src="https://github.com/user-attachments/assets/6f4a5790-867a-49da-a83f-6dbd3a06040f" />
 
 
 The Analysis page explores restaurant ratings, votes by restaurant,
